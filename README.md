@@ -10,3 +10,9 @@ So the idea here is to use the flask framework and not to have a great model to 
 ![alt text](https://github.com/kimakour/flask_example_hate_speech/blob/main/images/second.PNG)
 ### Step 3 : You get the prediction and you can once more add a text you want to analyze 
 ![alt text](https://github.com/kimakour/flask_example_hate_speech/blob/main/images/third.PNG)
+
+
+
+work based on these two articles : 
+- https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/ 
+- https://towardsdatascience.com/build-and-deploy-your-first-machine-learning-web-app-e020db344a99 
